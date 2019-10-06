@@ -457,3 +457,8 @@
 - Place: The Netherlands
 - Bio: Student Software Engineering, loves front-end
 - GitHub: [Hidduh](https://github.com/Hidduh)
+
+#### Name: [Arun Chauhan](https://github.com/iamarunchauhan)
+- Place: Faridabad, Haryana, India
+- Bio: A tech geek who loves to write on [Linkedin](https://linkedin.com/in/iamarunchauhan/) & solve problems on [Hackerrank](https://hackerrank.com/iamarunchauhan). Currently pursuing Bachelor of Technology in Computer Science & Engineering
+- GitHub: [iamarunchauhan](https://github.com/iamarunchauhan)
